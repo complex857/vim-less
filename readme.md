@@ -1,3 +1,7 @@
+My only addition is the indent/ directory that includes a css indent file capable of properly handling the nested curlies.
+
+## Original README:
+
 This vim bundle adds syntax highlighting for [.less]. It's based on [leafo's vim resource][leafo]. This README is also heavily inspired by [vim-coffee-script].
 
 [.less]: http://lesscss.org/
